@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Triana
+
+Resolusi saya:
+- Belajar Javascript Framework
+- Belajar PHP Framework
+  * Laravel
